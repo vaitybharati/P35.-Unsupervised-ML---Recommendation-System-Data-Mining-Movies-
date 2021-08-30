@@ -1,6 +1,6 @@
 # P35.-Unsupervised-ML---Recommendation-System-Data-Mining-Movies-
 
-Recommend a movies based on the ratings:
+Recommend movies based on the ratings:
 
 Sort by User IDs
 
